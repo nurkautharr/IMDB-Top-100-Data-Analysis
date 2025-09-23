@@ -3,10 +3,8 @@
 
 <h1 align="center">IMDb Top 100 Movies: Data Analysis & Machine Learning</h1>
 
-### Project Overview
-This project explores the **IMDb Top 100 Movies dataset** using **Exploratory Data Analysis (EDA)**, preprocessing and multiple **machine learning techniques**. The objective is to analyse trends in the dataset, handle missing values/outliers, perform discretisation and encoding and apply **supervised and unsupervised learning algorithms** to extract insights.
-
----
+### Project Overview:
+This project explores the IMDb Top 100 Movies dataset using Exploratory Data Analysis (EDA), preprocessing and multiple machine learning techniques. The objective is to analyse trends in the dataset, handle missing values/outliers, perform discretisation and encoding and apply supervised and unsupervised learning algorithms to extract insights.
 
 ### Skills:
 Data handling and preprocessing, Exploratory Data Analysis (EDA), machine learning (supervised and unsupervised), analystics
