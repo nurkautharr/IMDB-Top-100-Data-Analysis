@@ -25,8 +25,8 @@ Data handling and preprocessing, Exploratory Data Analysis (EDA), machine learni
 - Explained first the basis of classification made and any transformation of data required in order to perform the classification task. In each of the model, do some manual tuning parameter in order to see the effect of parameter tuning to the accuracy of the classifier. Make a report to explain from the assumption made in any data set and the performance obtained in each of the classifier.
 
 #### 7. Optimisation in unsupervised and supervised machine learning 
-- Task 1: Unsupervised learning
+- Task A: Unsupervised learning
   - Clustering dataset using K-means algorithm. Find the optimised K using the appropriate analysis.
   - Conduct one of hierarchical method to do the clustering
-- Task 2 : Validation and optimisation
+- Task B: Validation and optimisation
   - Repeat classification algorithm in 8 but optimsed the selected hyperparameter using K fold and grid search approach. Report the different in the performance compared to manual tuning applied in 8.
